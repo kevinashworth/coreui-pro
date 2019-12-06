@@ -1,8 +1,8 @@
 // Import CoreUI default colors
-@import "variables/colors";
+@import "./variables/colors";
 
 // Customized Bootstrap variables
-@import "variables/bootstrap/variables";
+@import "./variables/bootstrap/variables";
 
 // Import Bootstrap variables after customization for use below
 @import "../../../../node_modules/bootstrap/scss/functions"; // from bootstrap node_modules

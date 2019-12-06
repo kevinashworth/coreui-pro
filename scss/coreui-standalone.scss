@@ -6,7 +6,7 @@
  */
 
 // Override Boostrap variables
-@import "variables";
+@import "./variables";
 
 // Import Bootstrap source files
 @import "../../../../node_modules/bootstrap/scss/functions";
@@ -14,7 +14,7 @@
 @import "../../../../node_modules/bootstrap/scss/mixins";
 
 // Import core styles
-@import "mixins";
+@import "./mixins";
 
 // Animations
 @import "animate";
